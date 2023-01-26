@@ -48,7 +48,9 @@ print(Norm_of_matrix)
 
 
 ## Output:
- file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-26%2016-25-28.png
+ 
+
+![Screenshot from 2023-01-26 16-25-28](https://user-images.githubusercontent.com/120550359/214819156-d9dff638-967b-440c-bd5a-b9b0022160fc.png)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
